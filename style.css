@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#head .bg-light{
+    background-color: transparent !important;
+}
+
+.navbar-brand img{
+    width: 120px;
+}
+
+.nav-link{
+    color: #000 !important;
+    margin: 0px 10px;
+}
+
+
